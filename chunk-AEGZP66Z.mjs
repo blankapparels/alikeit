@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Discover the Perfect Blend of Comfort and Trend with Our Exclusive Collection. Explore Deals on Jeans, Sneakers, and More!",favicon:"https://framerusercontent.com/assets/OrlAwrgzWOxwCo8v4jqPmaVbxwk.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/GGAXcTiHxO6m7RsJGLsMFQ.png",title:"BEST CUSTOMIZED DRESS IN DELHI"}}export{e as a};
+//# sourceMappingURL=chunk-AEGZP66Z.mjs.map
